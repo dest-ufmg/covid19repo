@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+covid19repo.Rproj
+LICENSE
+script_cron.R
+script_git_update.log
+script_git_update.R
